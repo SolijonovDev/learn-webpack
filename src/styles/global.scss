@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;  
+}
+
+body{
+    font-size: 14px;
+    font-weight: 400;
+    background-color: darkgrey;
+}
+
+.container{
+  width: 1000px;
+  margin: 0 auto;
+  border:1px solid red;
+  
+}
+
+.header__inner{
+  padding: 80px 0;
+}
